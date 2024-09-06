@@ -122,4 +122,4 @@ FPS = 30
 ###
 # Debug
 ###
-OVERLAY = True
+OVERLAY = False
